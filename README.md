@@ -24,8 +24,9 @@ This project is protected by the MIT License
 
 
 
-*This ANN was made as a homework assignment for the "Neural Networks in Python" course Im taking on Udemy. Its proven to be
+"This ANN was made as a homework assignment for the "Neural Networks in Python" course Im taking on Udemy. Its proven to be
 super helpful and i urge everyone to give it a try"
 
-*Criticism and advice is welcome and appreciated. for edits, please email me at solaimanjawad@gmail.com"
-*Apologies for some of the gibberish labelling in places. They make sense to me but I can see a few people scratching their heads"
+"Criticism and advice is welcome and appreciated. for edits, please email me at solaimanjawad@gmail.com"
+
+"Apologies for some of the gibberish labelling in places. They make sense to me in my head but I can see a few people scratching their heads"
