@@ -15,8 +15,11 @@ and implemented methods such as dropout for a more independent batch of nodes, h
 
 ## Dependancies
 Keras
+
 tflearn
+
 scikit-learn
+
 math
 
 ## Author
