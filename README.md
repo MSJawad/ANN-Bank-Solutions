@@ -4,11 +4,14 @@ whether a customer is likely to leave the bank.
 
 ## Concepts used
 Artificial Neural Networks
+
 Backpropogation
-Reinforced Learning etc
+
+Reinforced Learning etc.
+
 
 After the initial neural network had been built, a lot of the code after was used to check and improve the accuracy,
-and implemented methods such as dropout for a more independent batch of nodes, hence improving accuracies on the testing set
+and implemented methods such as dropout for a more independent batch of nodes, hence improving accuracies on the testing set(and prevent overtraining),and grid search for testing ideal parameters for the neural network
 
 ## Dependancies
 Keras
